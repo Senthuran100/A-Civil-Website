@@ -19,7 +19,7 @@ function Contact() {
     );
 
     emailjs
-      .sendForm("sen", "template_3035q67", event.target,)
+      .sendForm("sen", "template_3035q67", event.target, "BUm4ddtKNjJbkRkT7")
       .then(
         (result) => {
           console.log(result.text);

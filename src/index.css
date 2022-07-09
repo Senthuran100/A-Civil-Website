@@ -176,7 +176,7 @@ video {
   width: 100%;
   height: 100vh;
   position: absolute;
-  z-index: -1;
+  z-index: 0;
 }
 
 .headerbg {
@@ -202,6 +202,11 @@ header h1 {
   z-index: 1;
   color: white;
   font-size: 64px;
+}
+header h2 {
+  z-index: 1;
+  color: white;
+  font-size: 56px;
 }
 .opened {
   transform: translateX(0%)!important;
