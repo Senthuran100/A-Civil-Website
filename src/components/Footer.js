@@ -10,7 +10,7 @@ function Footer() {
               <div className="col-md-3">
                 <h1 className="logo">KARAI ENGINEERING</h1>
                 <p className="footer-text">
-                  Solid Foundations for a Brighter uture
+                  Solid Foundations for a Brighter Future
                 </p>
               </div>
               <div className="col-md-3">
