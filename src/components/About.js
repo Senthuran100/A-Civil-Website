@@ -11,9 +11,12 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-              quam purus, ullamcorper id risus eu, consectetur consectetur
-              purus. Etiam sagittis in eros ac sollicitudin.
+            We are an Engineering Company providing Civil, Structural, Piping and Mechanical design and
+            detailed engineering services as well as Solar power plant design and installation services 
+            ensuring safety, accuracy, sustainability and optimized solutions. Hands on experience of 
+            Civil & Structural, Piping and Mechanical engineering design using software's like STAAD Pro, 
+            CAESAR II, Solidegde and Detailing/ Fabrication drawings using Tekla, Revit Structures, 
+            CadWorx in the following industries.
             </p>
           </div>
         </div>
