@@ -1,6 +1,7 @@
-import About from '../components/About';
-import Services from '../components/Services';
-import Contact from '../components/Contact';
+import About from "../components/About";
+import Services from "../components/Services";
+import Contact from "../components/Contact";
+import Projects from "../components/Projects";
 
 function Main() {
   return (
@@ -8,6 +9,7 @@ function Main() {
       <main>
         <Services />
         <About />
+        <Projects />
         <Contact />
       </main>
     </>
