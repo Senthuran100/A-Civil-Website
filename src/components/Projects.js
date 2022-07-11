@@ -8,35 +8,40 @@ function Project() {
           <div className="row">
             <div className="col-md-4 mb-2">
               <Card
-                title="PRELIMINARY PLANNING AND DEVELOPMENT"
-                img="civil1.jpg"
+                title="TWO STOREY HOUSE - WAHROONGA"
+                img="Wahroonga house_Final_180122_01 (1).jpg"
               />
             </div>
             <div className="col-md-4 mb-2">
-              <Card title="STRUCTURAL ANALYSIS AND DESIGN" img="civil2.jpg" />
+              <Card
+                title="QUAKERS HILL- DOUBLE STOREY HOUSE"
+                img="QUAKERS%20HILL-%20DOUBLE%20STOREY%20HOUSE.jpg"
+              />
             </div>
             <div className="col-md-4 mb-2">
               <Card
-                title="PROJECT MANAGEMENT AND SUPERVISION"
-                img="civil3.jpg"
+                title="NORTH KELLYVILLE- DOUBLE STOREY HOUSE"
+                img="NORTH KELLYVILLE- DOUBLE STOREY HOUSE.jpg"
               />
             </div>
           </div>
           <div className="row">
             <div className="col-md-4 mb-2">
               <Card
-                title="PRELIMINARY PLANNING AND DEVELOPMENT"
-                img="civil1.jpg"
+                title="BLACKTOWN- DETTACHED DUAL OCCUPANCY"
+                img="59%20Davis%20Rd%20MARAYONG_High%20Res_280122_View_01.jpg"
               />
             </div>
             <div className="col-md-4 mb-2">
-              <Card title="STRUCTURAL ANALYSIS AND DESIGN" img="civil2.jpg" />
+              <Card
+                title="MELONBA - SINGLE STOREY HOUSE"
+                img="Screenshot (34).png"
+              />
             </div>
-
             <div className="col-md-4 mb-2">
               <Card
-                title="CONSTRUCTION SUPERVISION AND DETAILING"
-                img="civil4.jpg"
+                title="BOX HILL - DUAL OCCUPANCY (DETACHED)"
+                img="BOX HILL - DUAL OCCUPANCY (DETACHED) .png"
               />
             </div>
           </div>
