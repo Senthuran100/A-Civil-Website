@@ -96,7 +96,7 @@ function Navbar() {
             <li>
               <Link
                 onClick={openBar}
-                to="projects"
+                to="contact"
                 spy={true}
                 smooth={true}
                 duration={1000}
